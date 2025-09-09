@@ -14409,8 +14409,8 @@ template {
 }
 
 .btn-sm {
-  padding: 8px 16px;
-  font-size: 14px;
+  padding: 10px 16px !important;
+  font-size: 12px;
   font-weight: 500;
 }
 
@@ -29168,7 +29168,6 @@ header.header-gradient
 }
 
 .bg-effect {
-  background-image: url("../images/bg-body.png");
   background-repeat: no-repeat;
   background-position: center;
 }
